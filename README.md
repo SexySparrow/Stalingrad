@@ -32,6 +32,7 @@ Minim:
 Echipa Sparrow Studios:
 
 Membrii:
+
 •Adrian Brabete:
 	Modelator 3D, 
 	Programator, 
