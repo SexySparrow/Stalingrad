@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//vezi PickUpGewehr
 function Start () {
 	
 }
