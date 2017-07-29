@@ -47,26 +47,24 @@ Membrii:
 
 Asseturile si scripturile ce nu ne apartin sunt:
 - Pachetul “Blood decal pack” 
-
 	https://www.assetstore.unity3d.com/en/#!/content/7518
+	
 - Chainlink Fences
-
 	https://www.assetstore.unity3d.com/en/#!/content/73107
+	
 -RazorWire
-
 	https://www.assetstore.unity3d.com/en/#!/content/37326
+	
 -Cope Free Skybox pack
-
 	https://www.assetstore.unity3d.com/en/#!/content/22252
+	
 -plugin-ul Rain
-
-https://www.assetstore.unity3d.com/en/#!/content/23569
+	https://www.assetstore.unity3d.com/en/#!/content/23569
 
 -mainile personajului (textura este din Counter-Strike)
 -animatiile de arme la Gewehr (animatiile erau de M4)
 -sunetele de explozii
 
 Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
-
-                                                și Brackey : https://www.youtube.com/user/Brackeys
+și Brackey : https://www.youtube.com/user/Brackeys
 
