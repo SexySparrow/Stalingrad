@@ -6,7 +6,7 @@ function Start () {
 
 static var DistanceFromTarget : float;
 
-var ToTarget : float; //how far it is to the target
+var ToTarget : float;
 
 
 function Update () {
