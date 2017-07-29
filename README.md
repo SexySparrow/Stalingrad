@@ -33,15 +33,15 @@ Echipa Sparrow Studios:
 
 Membrii:
 •Adrian Brabete:
-	Modelator 3D
-	Programator
-	Manager Proiect
-	Level Designer
+	Modelator 3D, 
+	Programator, 
+	Manager Proiect, 
+	Level Designer, 
 •Bogdan Popescu:
-	Programator
-	Modelator 3D
-	Tehnical Designer
-	Animator
+	Programator, 
+	Modelator 3D, 
+	Tehnical Designer, 
+	Animator, 
 
 Asseturile si scripturile ce nu ne apartin sunt:
 - Pachetul “Blood decal pack” 
