@@ -7,13 +7,16 @@ Proiectul ocupa mult spatiu asa ca pana se termina upload-ul pe Github am facut 
 EDIT: Pe Github nu vom pune decat script-urile deoarece pierdem conexiunea la server pe parcursul upload-ului care dureaza substantial datorita dimensiunii proiectului.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Descriere
+Descriere:
+
 ”Bătălia de la Stalingrad” este un joc de tip First-Person Shooter care prezintă conflictul armat dintre cele două mari puteri ale secolului XX, Germania Nazistă și URSS. Ne propunem să oferim o experiență cât mai exactă din punct de vedere istoric. Jucătorul va lupta atât pentru Wehrmacht cât și pentru Armata Roșie. Pe parcursul jocului eroul va participa la orice fel de bătălie, cum ar fi atacuri blindate, dogfights, lupte de infanterie, operațiuni secrete și multe altele. De asemenea, dacă dorește, jucătorul poate accesa un muzeu virtual unde are posibilitatea de a citi mai multe despre bătălia în sine și poate observa echipamentul ambelor tabere în detaliu. Proiectul este încă în dezvoltare, unele caracteristici vor fi adăugate pe măsură ce proiectul se apropie de stadiul final.
 
-Tehnologii
+Tehnologii:
+
 Proiectul este dezvoltat in Unity 5, folosind ca mediu de programare MonoDevelop. Ca limbaje de programare am folosit C# și JavaScript. Pentru realizarea modelelor 3D am folosit SketchUp Pro și Blender. Animațile umanoide au fost realizate cu ajutorul Mixamo. Texturile au fost editate folosind Autodesk SketchBook. Fișierele audio le-am prelucrat in WonderShare Filmora.
 
-Cerinte sistem
+Cerinte sistem:
+
 Recomandate:
 -Procesor: Intel i5 4460 3.2Ghz;
 -RAM: 8Gb;
@@ -29,16 +32,16 @@ Minim:
 Echipa Sparrow Studios:
 
 Membrii:
-•	Adrian Brabete:
-	Modelator 3D
-	Programator
-	Manager Proiect
-	Level Designer
-•	Bogdan Popescu:
-	Programator
-	Modelator 3D
-	Tehnical Designer
-	Animator
+•Adrian Brabete:
+	Modelator 3D
+	Programator
+	Manager Proiect
+	Level Designer
+•Bogdan Popescu:
+	Programator
+	Modelator 3D
+	Tehnical Designer
+	Animator
 
 Asseturile si scripturile ce nu ne apartin sunt:
 - Pachetul “Blood decal pack” 
