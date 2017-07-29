@@ -62,7 +62,9 @@ Asseturile si scripturile ce nu ne apartin sunt:
 	https://www.assetstore.unity3d.com/en/#!/content/23569
 
 -mainile personajului (textura este din Counter-Strike)
+
 -animatiile de arme la Gewehr (animatiile erau de M4)
+
 -sunetele de explozii
 
 Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
