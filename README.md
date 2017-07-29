@@ -37,6 +37,7 @@ Membrii:
 	Programator, 
 	Manager Proiect, 
 	Level Designer, 
+	
 •Bogdan Popescu:
 	Programator, 
 	Modelator 3D, 
