@@ -12,7 +12,7 @@ public class play_sound_on_trigger3 : MonoBehaviour
     void Start()
     {
 
-        InvokeRepeating("alegereSunete", 0f, 5f);
+        InvokeRepeating("alegereSunete", 0f, 5f);//la 5 secunde alege o explozie din lista
 
     }
     void alegereSunete()
