@@ -3,6 +3,7 @@ Bătălia de la Stalingrad alpha 2
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Proiectul ocupa mult spatiu asa ca pana se termina upload-ul pe Github am facut un Drive cu o parte din script-uri. :https://drive.google.com/drive/folders/0B3StbeUcGulUdnlJTWJNY3hfT1U 
+
 EDIT: Pe Github nu vom pune decat script-urile deoarece pierdem conexiunea la server pe parcursul upload-ului care dureaza substantial datorita dimensiunii proiectului.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
