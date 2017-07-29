@@ -52,4 +52,4 @@ https://www.assetstore.unity3d.com/en/#!/content/23569
 Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
                                                 și Brackey : https://www.youtube.com/user/Brackeys
 
-
+Proiectul ocupa mult spatiu asa ca pana se termina upload pe Github am facut un Drive cu o parte din script-uri :https://drive.google.com/drive/folders/0B3StbeUcGulUdnlJTWJNY3hfT1U 
