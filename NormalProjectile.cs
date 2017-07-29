@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 using System.Collections;
- // un glont normal 
+ // lanseaza proiectilul basic
 public class NormalProjectile : BaseProjectile
 {
     Vector3 m_direction;
