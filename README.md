@@ -72,5 +72,5 @@ Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.you
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUeVYzbGZhNTVNZ1E
+Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUak9ZRVFUdHRPelE
 
