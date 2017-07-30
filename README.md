@@ -70,3 +70,7 @@ Asseturile si scripturile ce nu ne apartin sunt:
 Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
 și Brackey : https://www.youtube.com/user/Brackeys
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUeVYzbGZhNTVNZ1E
+
