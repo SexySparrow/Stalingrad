@@ -2,9 +2,11 @@
 Bătălia de la Stalingrad alpha 2
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Proiectul ocupa mult spatiu asa ca pana se termina upload-ul pe Github am facut un Drive cu o parte din script-uri. :https://drive.google.com/drive/folders/0B3StbeUcGulUdnlJTWJNY3hfT1U 
+Proiectul ocupa mult spatiu asa ca pana se termina upload-ul pe Github am facut un Drive cu o parte din script-uri.
 
 EDIT: Pe Github nu vom pune decat script-urile deoarece pierdem conexiunea la server pe parcursul upload-ului care dureaza substantial datorita dimensiunii proiectului.
+
+Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUak9ZRVFUdHRPelE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Descriere:
@@ -68,9 +70,7 @@ Asseturile si scripturile ce nu ne apartin sunt:
 -sunetele de explozii
 
 Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
-și Brackey : https://www.youtube.com/user/Brackeys
+și Brackeys : https://www.youtube.com/user/Brackeys
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUak9ZRVFUdHRPelE
 
