@@ -7,6 +7,10 @@ Proiectul ocupa mult spatiu asa ca pana se termina upload-ul pe Github am facut 
 EDIT: Pe Github nu vom pune decat script-urile deoarece pierdem conexiunea la server pe parcursul upload-ului care dureaza substantial datorita dimensiunii proiectului.
 
 Proiectul intreg este pe drive: https://drive.google.com/open?id=0B3StbeUcGulUak9ZRVFUdHRPelE
+
+Asseturile se afla in folderul Proiectul > WWII Stalingrad > Assets.
+
+Vom pune si un build.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Descriere:
