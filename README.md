@@ -73,8 +73,3 @@ Asseturile si scripturile ce nu ne apartin sunt:
 
 -sunetele de explozii
 
-Pentru unele script-uri am urmarit tutoriale de la Jimmy Vegas : https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg
-și Brackeys : https://www.youtube.com/user/Brackeys
-
-
-
